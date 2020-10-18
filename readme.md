@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yo 🐱‍👤
 
 # Shantanu Chakrawarty
 
