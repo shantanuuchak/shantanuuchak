@@ -3,9 +3,9 @@
 # Shantanu Chakrawarty
 
 
-╔═╗╔═╗╔═╗╦╔═
+
 ║ ╦║╣ ║╣ ╠╩╗
-╚═╝╚═╝╚═╝╩ ╩
+
                                  
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/shantanuuchak/)](https://twitter.com/shantanuuchak/)
@@ -13,3 +13,5 @@
 [![GitHub](https://img.shields.io/github/followers/shantanuuchak?label=follow&style=social)](https://github.com/shantanuuchak)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanuuchak&layout=compact&hide=html" />
+
+𝘎𝘦𝘦𝘬
