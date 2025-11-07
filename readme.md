@@ -6,7 +6,7 @@
     <li>fast, low-overhead backends</li>
     <li>cloudflare’s edge</li>
     <li>stretching old hardware capabilities</li>
-    <li>linux distros (Omarchy)</li>
+    <li>linux distros (Omarchy → Deepin → PopOS)</li>
   </ul>
 </section>
 
