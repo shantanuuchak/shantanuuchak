@@ -10,4 +10,4 @@
   </ul>
 </section>
 
-<footer>⚗️ Everything I build starts as “what if…?”</footer>
+<footer>⚗️ everything I build starts as “what if…?”</footer>
