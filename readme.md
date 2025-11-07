@@ -10,6 +10,4 @@
   </ul>
 </section>
 
-<hr>
-
 <footer>⚗️ Everything I build starts as “what if…?”</footer>
