@@ -1,4 +1,4 @@
-![shantanuuchak](icon.png)
+![shantanuuchak](logo.png)
 
 <section>
   <h2>interests:</h2>
